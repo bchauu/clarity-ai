@@ -1,4 +1,4 @@
-import "@/styles/globals.scss";  // Import SCSS instead of Tailwind
+import "@/styles/globals.scss";
 
 export default function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
